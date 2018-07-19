@@ -5,3 +5,5 @@ Git tracks changes.
 Git stupid.
 Git a.
 Git b.
+Creating a new branch is quick.
+
