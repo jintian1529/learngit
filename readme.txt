@@ -8,3 +8,5 @@ Git b.
 Creating a new branch is quick.
 Creating a new branch is quick and simple
 git new.
+Git is a free software.
+
