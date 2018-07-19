@@ -4,3 +4,4 @@ Git haa a mutable index called stage.
 Git tracks changes.
 Git stupid.
 Git a.
+Git b.
